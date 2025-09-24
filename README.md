@@ -55,6 +55,7 @@ This repository is created for **beginners** to learn and practice github flow b
 
 7. **Open a Pull Request**
 
+
 - Go to your forked repository on GitHub.
 
 - You’ll see a banner → click **Compare & pull request**.
@@ -65,10 +66,14 @@ This repository is created for **beginners** to learn and practice github flow b
 
 ---
 
+
 ## 🎉 Congratulations!
+
 
 You have successfully made your **first open-source contribution!** 🥳
 
 We’ll review and merge your Pull Request soon.
 
+
 Happy contributing! ✨
+
