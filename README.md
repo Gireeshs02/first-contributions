@@ -32,8 +32,6 @@ This repository is created for **beginners** to learn and practice github flow b
     ### [Your Name](https://github.com/<github-username>)
     - **Tech Stack:** Your tech stack
 
-    ---
-
     ```
 
 5. **Commit your changes**
